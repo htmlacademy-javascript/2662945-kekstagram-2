@@ -1,7 +1,8 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Яна Сереброва](https://up.htmlacademy.ru/javascript-individual/2/user/2662945).
-* Наставник: Виктория Никитина.
+</> id1217273
+* Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273)
 
 ---
 
